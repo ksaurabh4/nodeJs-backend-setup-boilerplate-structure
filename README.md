@@ -18,7 +18,7 @@ In this repository, I don't aim to provide an optimal solution as each project h
  
  First you clone the project using the following command :
 
- git clone repoURL
+ git clone [repoURL](https://github.com/ksaurabh4/nodeJs-backend-setup-boilerplate-structure.git)
  
  Delete the existing package.lock.json and run npm install 
  
